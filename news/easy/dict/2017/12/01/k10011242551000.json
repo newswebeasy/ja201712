@@ -1,0 +1,152 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>象徴</rb><rt>しょうちょう</rt></ruby>としてあおがれている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "天皇"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>天皇</rb><rt>てんのう</rt></ruby>や<ruby><rb>皇后</rb><rt>こうごう</rt></ruby>などを<ruby><rb>敬</rb><rt>うやま</rt></ruby>って<ruby><rb>呼</rb><rt>よ</rt></ruby>ぶことば。",
+          "hyouki": [
+            "陛下"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>勤</rb><rt>つと</rt></ruby>めや<ruby><rb>役目</rb><rt>やくめ</rt></ruby>から<ruby><rb>退</rb><rt>しりぞ</rt></ruby>く。",
+          "hyouki": [
+            "辞める"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>内閣総理大臣</rb><rt>ないかくそうりだいじん</rt></ruby>のこと。<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>の<ruby><rb>最高責任者</rb><rt>さいこうせきにんしゃ</rt></ruby>で、<ruby><rb>国会議員</rb><rt>こっかいぎいん</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>から<ruby><rb>議員</rb><rt>ぎいん</rt></ruby>が<ruby><rb>選</rb><rt>えら</rt></ruby>び、<ruby><rb>天皇</rb><rt>てんのう</rt></ruby>が<ruby><rb>認</rb><rt>みと</rt></ruby>めて<ruby><rb>決</rb><rt>き</rt></ruby>まる。<ruby><rb>首相</rb><rt>しゅしょう</rt></ruby>。<ruby><rb>総理</rb><rt>そうり</rt></ruby>。",
+          "hyouki": [
+            "総理大臣"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>皇室</rb><rt>こうしつ</rt></ruby>に<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>事務</rb><rt>じむ</rt></ruby>の<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。",
+          "hyouki": [
+            "宮内庁"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>参議院</rb><rt>さんぎいん</rt></ruby>とともに<ruby><rb>国会</rb><rt>こっかい</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>っている<ruby><rb>仕組</rb><rt>しく</rt></ruby>みの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>や<ruby><rb>予算</rb><rt>よさん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める<ruby><rb>上</rb><rt>うえ</rt></ruby>で、<ruby><rb>参議院</rb><rt>さんぎいん</rt></ruby>より<ruby><rb>大</rb><rt>おお</rt></ruby>きい<ruby><rb>権限</rb><rt>けんげん</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つ。<ruby><rb>解散</rb><rt>かいさん</rt></ruby>することがある。",
+          "hyouki": [
+            "衆議院"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>国会</rb><rt>こっかい</rt></ruby>の<ruby><rb>議院</rb><rt>ぎいん</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。<ruby><rb>衆議院</rb><rt>しゅうぎいん</rt></ruby>で<ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>予算</rb><rt>よさん</rt></ruby>や<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>などを、もう<ruby><rb>一度</rb><rt>いちど</rt></ruby><ruby><rb>検討</rb><rt>けんとう</rt></ruby>するところ。<ruby><rb>解散</rb><rt>かいさん</rt></ruby>はない。",
+          "hyouki": [
+            "参議院"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>会議</rb><rt>かいぎ</rt></ruby>を<ruby><rb>進</rb><rt>すす</rt></ruby>めたり、まとめたりする<ruby><rb>役</rb><rt>やく</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "議長"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>のいちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>裁判所</rb><rt>さいばんしょ</rt></ruby>。<ruby><rb>裁判</rb><rt>さいばん</rt></ruby>で<ruby><rb>最終</rb><rt>さいしゅう</rt></ruby>の<ruby><rb>判決</rb><rt>はんけつ</rt></ruby>をする。また、<ruby><rb>法律</rb><rt>ほうりつ</rt></ruby>や<ruby><rb>命令</rb><rt>めいれい</rt></ruby>などが、<ruby><rb>憲法</rb><rt>けんぽう</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>っているかどうかを<ruby><rb>決定</rb><rt>けってい</rt></ruby>する。<ruby><rb>最高裁</rb><rt>さいこうさい</rt></ruby>。",
+          "hyouki": [
+            "最高裁判所"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>官庁</rb><rt>かんちょう</rt></ruby>のいちばん<ruby><rb>上</rb><rt>うえ</rt></ruby>の<ruby><rb>役目</rb><rt>やくめ</rt></ruby>。また、その<ruby><rb>役目</rb><rt>やくめ</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>次官</rb><rt>じかん</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>。",
+          "hyouki": [
+            "長官"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>天皇</rb><rt>てんのう</rt></ruby>の<ruby><rb>家族</rb><rt>かぞく</rt></ruby>。",
+          "hyouki": [
+            "皇室"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>天皇</rb><rt>てんのう</rt></ruby>の<ruby><rb>男</rb><rt>おとこ</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt></ruby>で、あとつぎになる<ruby><rb>皇子</rb><rt>おうじ</rt></ruby>。",
+          "hyouki": [
+            "皇太子"
+          ]
+        }
+      ],
+      "0013": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0014": [
+        {
+          "def": "<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>政治</rb><rt>せいじ</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>うところ。",
+          "hyouki": [
+            "政府"
+          ]
+        },
+        {
+          "def": "<ruby><rb>内閣</rb><rt>ないかく</rt></ruby>。",
+          "hyouki": [
+            "政府"
+          ]
+        }
+      ],
+      "0015": [
+        {
+          "def": "<ruby><rb>婚礼</rb><rt>こんれい</rt></ruby>や<ruby><rb>葬式</rb><rt>そうしき</rt></ruby>など、<ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>形</rb><rt>かたち</rt></ruby>で<ruby><rb>行</rb><rt>おこな</rt></ruby>われる<ruby><rb>式</rb><rt>しき</rt></ruby>。",
+          "hyouki": [
+            "儀式"
+          ]
+        }
+      ]
+    }
+  }
+}

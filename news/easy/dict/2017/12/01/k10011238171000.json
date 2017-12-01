@@ -1,0 +1,92 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>生</rb><rt>う</rt></ruby>まれた<ruby><rb>年</rb><rt>とし</rt></ruby>や<ruby><rb>方角</rb><rt>ほうがく</rt></ruby>・<ruby><rb>時刻</rb><rt>じこく</rt></ruby>を<ruby><rb>示</rb><rt>しめ</rt></ruby>す１２の<ruby><rb>呼</rb><rt>よ</rt></ruby>び<ruby><rb>名</rb><rt>な</rt></ruby>。<ruby><rb>子</rb><rt>ね</rt></ruby>（ねずみ）・<ruby><rb>丑</rb><rt>うし</rt></ruby>・<ruby><rb>寅</rb><rt>とら</rt></ruby>・<ruby><rb>卯</rb><rt>う</rt></ruby>（うさぎ）・<ruby><rb>辰</rb><rt>たつ</rt></ruby>（りゅう）・<ruby><rb>巳</rb><rt>み</rt></ruby>（へび）・<ruby><rb>午</rb><rt>うま</rt></ruby>・<ruby><rb>未</rb><rt>ひつじ</rt></ruby>・<ruby><rb>申</rb><rt>さる</rt></ruby>・<ruby><rb>酉</rb><rt>とり</rt></ruby>（にわとり）・<ruby><rb>戌</rb><rt>いぬ</rt></ruby>・<ruby><rb>亥</rb><rt>い</rt></ruby>（いのしし）のこと。",
+          "hyouki": [
+            "十二支"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>着</rb><rt>き</rt></ruby>る<ruby><rb>礼服</rb><rt>れいふく</rt></ruby>。",
+          "hyouki": [
+            "ドレス"
+          ]
+        },
+        {
+          "def": "<ruby><rb>女</rb><rt>おんな</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>洋服</rb><rt>ようふく</rt></ruby>。",
+          "hyouki": [
+            "ドレス"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>英語</rb><rt>えいご</rt></ruby>の「プロフェッショナル」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>職業</rb><rt>しょくぎょう</rt></ruby>にすること。<ruby><rb>本職</rb><rt>ほんしょく</rt></ruby>。<ruby><rb>専門</rb><rt>せんもん</rt></ruby>。",
+          "hyouki": [
+            "プロ"
+          ]
+        },
+        {
+          "def": "「プロダクション」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "プロ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>写真</rb><rt>しゃしん</rt></ruby>や<ruby><rb>映画</rb><rt>えいが</rt></ruby>、ビデオなどの<ruby><rb>撮影</rb><rt>さつえい</rt></ruby>をする<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "カメラマン"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>写真</rb><rt>しゃしん</rt></ruby>や<ruby><rb>映画</rb><rt>えいが</rt></ruby>のさつえいをする<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "スタジオ"
+          ]
+        },
+        {
+          "def": "ラジオやテレビの<ruby><rb>放送室</rb><rt>ほうそうしつ</rt></ruby>。",
+          "hyouki": [
+            "スタジオ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>録音</rb><rt>ろくおん</rt></ruby>をする<ruby><rb>部屋</rb><rt>へや</rt></ruby>。",
+          "hyouki": [
+            "スタジオ"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "かみを<ruby><rb>洗</rb><rt>あら</rt></ruby>うときに<ruby><rb>使</rb><rt>つか</rt></ruby>う<ruby><rb>液体</rb><rt>えきたい</rt></ruby>。また、それで<ruby><rb>洗</rb><rt>あら</rt></ruby>うこと。",
+          "hyouki": [
+            "シャンプー"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "うしろ。",
+          "hyouki": [
+            "後"
+          ]
+        },
+        {
+          "def": "のち。あと。",
+          "hyouki": [
+            "後"
+          ]
+        }
+      ]
+    }
+  }
+}
