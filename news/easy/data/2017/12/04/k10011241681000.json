@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011241681000",
+  "news_prearranged_time": "2017-12-04 11:30:00",
+  "title": "パンダの「シャンシャン」は１９日から見ることができる",
+  "title_with_ruby": "パンダの「シャンシャン」は１９<ruby>日<rt>にち</rt></ruby>から<ruby>見<rt>み</rt></ruby>ることができる",
+  "outline_with_ruby": "<p><ruby>東京都<rt>とうきょうと</rt></ruby>の<ruby>上野動物園<rt>うえのどうぶつえん</rt></ruby>で１９<ruby>日<rt>にち</rt></ruby>から、<a href='javascript:void(0)' class='dicWin' id='id-0000'>パンダ</a>の<ruby>赤<rt>あか</rt></ruby>ちゃん「シャンシャン」とお<ruby>母<rt>かあ</rt></ruby>さんの「シンシン」を<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>見<rt>み</rt></ruby>ることができるようになります。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171130/../20171130/K10011241681_1711301836_1711301837_01_02.jpg",
+  "news_web_movie_uri": "k10011241681_201711301925_201711301930.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011241681000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011241681000/k10011241681000.html"
+}

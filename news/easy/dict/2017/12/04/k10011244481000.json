@@ -1,0 +1,158 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。",
+          "hyouki": [
+            "被害"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られた<ruby><rb>範囲</rb><rt>はんい</rt></ruby>の<ruby><rb>土地</rb><rt>とち</rt></ruby>。",
+          "hyouki": [
+            "地区"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>知恵</rb><rt>ちえ</rt></ruby>では<ruby><rb>考</rb><rt>かんが</rt></ruby>えられない、ふしぎな<ruby><rb>力</rb><rt>ちから</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>つと<ruby><rb>信</rb><rt>しん</rt></ruby>じられているもの。",
+          "hyouki": [
+            "神"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "はなれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "つかれなどが、なくなる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>取</rb><rt>と</rt></ruby>ることができる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "そう<ruby><rb>考</rb><rt>かんが</rt></ruby>えられる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。",
+          "hyouki": [
+            "取れる"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "（<ruby><rb>穀物</rb><rt>こくもつ</rt></ruby>などを）<ruby><rb>非常</rb><rt>ひじょう</rt></ruby>に<ruby><rb>細</rb><rt>こま</rt></ruby>かにくだいたもの。<ruby><rb>粉末</rb><rt>ふんまつ</rt></ruby>。",
+          "hyouki": [
+            "粉"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "ものがくっつく。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "つきそう。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>わる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>まる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>草木</rb><rt>くさき</rt></ruby>が、かれずに<ruby><rb>根</rb><rt>ね</rt></ruby>をおろす。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>感</rb><rt>かん</rt></ruby>じる。",
+          "hyouki": [
+            "付く"
+          ]
+        },
+        {
+          "def": "ある<ruby><rb>値段</rb><rt>ねだん</rt></ruby>になる。",
+          "hyouki": [
+            "付く"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "はなれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "つかれなどが、なくなる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>取</rb><rt>と</rt></ruby>ることができる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "そう<ruby><rb>考</rb><rt>かんが</rt></ruby>えられる。",
+          "hyouki": [
+            "取れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>作物</rb><rt>さくもつ</rt></ruby>などが<ruby><rb>得</rb><rt>え</rt></ruby>られる。",
+          "hyouki": [
+            "取れる"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。",
+          "hyouki": [
+            "売れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。",
+          "hyouki": [
+            "売れる"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>随筆</rb><rt>ずいひつ</rt></ruby>。",
+          "hyouki": [
+            "エッセイ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>評論</rb><rt>ひょうろん</rt></ruby>。<ruby><rb>論説</rb><rt>ろんせつ</rt></ruby>。",
+          "hyouki": [
+            "エッセイ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "お<ruby><rb>祝</rb><rt>いわ</rt></ruby>いする<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちがある。<ruby><rb>喜</rb><rt>よろこ</rt></ruby>ばしい。",
+          "hyouki": [
+            "めでたい"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>にだまされやすい。お<ruby><rb>人</rb><rt>ひと</rt></ruby>よしだ。",
+          "hyouki": [
+            "めでたい"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "アジア<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>の<ruby><rb>中央部</rb><rt>ちゅうおうぶ</rt></ruby>にすむけもの。ジャイアントパンダとレッサーパンダがいる。",
+          "hyouki": [
+            "パンダ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>特</rb><rt>とく</rt></ruby>にジャイアントパンダ。<ruby><rb>中国西部</rb><rt>ちゅうごくせいぶ</rt></ruby>の<ruby><rb>山地</rb><rt>さんち</rt></ruby>にすむ。<ruby><rb>体</rb><rt>からだ</rt></ruby>は<ruby><rb>白</rb><rt>しろ</rt></ruby>と<ruby><rb>黒</rb><rt>くろ</rt></ruby>に<ruby><rb>色分</rb><rt>いろわ</rt></ruby>けされて、<ruby><rb>顔</rb><rt>かお</rt></ruby>つきや<ruby><rb>動作</rb><rt>どうさ</rt></ruby>がかわいい。",
+          "hyouki": [
+            "パンダ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "せいの<ruby><rb>低</rb><rt>ひく</rt></ruby>い<ruby><rb>細</rb><rt>ほそ</rt></ruby>いタケで、<ruby><rb>茎</rb><rt>くき</rt></ruby>にタケノコの<ruby><rb>皮</rb><rt>かわ</rt></ruby>がついているもの。クマザサ・オカメザサなどがある。",
+          "hyouki": [
+            "笹"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "それをとることにより、<ruby><rb>体</rb><rt>からだ</rt></ruby>のはたらきを<ruby><rb>保</rb><rt>たも</rt></ruby>ったり、<ruby><rb>成長</rb><rt>せいちょう</rt></ruby>を<ruby><rb>助</rb><rt>たす</rt></ruby>けたりする<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。",
+          "hyouki": [
+            "栄養"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "ほめる。たたえる。",
+          "hyouki": [
+            "賞"
+          ]
+        },
+        {
+          "def": "ほうび。",
+          "hyouki": [
+            "賞"
+          ]
+        },
+        {
+          "def": "<ruby><rb>味</rb><rt>あじ</rt></ruby>わって<ruby><rb>楽</rb><rt>たの</rt></ruby>しむ。",
+          "hyouki": [
+            "賞"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>説明</rb><rt>せつめい</rt></ruby>がよくわかるように、<ruby><rb>例</rb><rt>れい</rt></ruby>として<ruby><rb>出</rb><rt>だ</rt></ruby>す<ruby><rb>文</rb><rt>ぶん</rt></ruby>。",
+          "hyouki": [
+            "例文"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>消化</rb><rt>しょうか</rt></ruby>したあと、<ruby><rb>体外</rb><rt>たいがい</rt></ruby>に<ruby><rb>出</rb><rt>だ</rt></ruby>されるもの。<ruby><rb>大便</rb><rt>だいべん</rt></ruby>。",
+          "hyouki": [
+            "糞"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>が<ruby><rb>買</rb><rt>か</rt></ruby>われる。",
+          "hyouki": [
+            "売れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>られる。",
+          "hyouki": [
+            "売れる"
+          ]
+        }
+      ]
+    }
+  }
+}
