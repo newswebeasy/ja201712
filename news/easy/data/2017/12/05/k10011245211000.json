@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011245211000",
+  "news_prearranged_time": "2017-12-05 11:30:00",
+  "title": "世界の海の水が二酸化炭素で酸性になっている",
+  "title_with_ruby": "<ruby>世界<rt>せかい</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>が<ruby>二酸化炭素<rt>にさんかたんそ</rt></ruby>で<ruby>酸性<rt>さんせい</rt></ruby>になっている",
+  "outline_with_ruby": "<p><ruby>気象庁<rt>きしょうちょう</rt></ruby>は、１９９０<ruby>年<rt>ねん</rt></ruby>から２０１６<ruby>年<rt>ねん</rt></ruby>までの<ruby>世界<rt>せかい</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>の<ruby>水<rt>みず</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0002'>データ</a>を<ruby>集<rt>あつ</rt></ruby>めて<ruby>調<rt>しら</rt></ruby>べました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171204/../20171204/K10011245211_1712040513_1712040513_01_03.jpg",
+  "news_web_movie_uri": "k10011245211_201712040513_201712040513.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011245211000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011245211000/k10011245211000.html"
+}

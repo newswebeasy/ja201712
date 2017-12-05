@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011244331000",
+  "news_prearranged_time": "2017-12-05 11:30:00",
+  "title": "コンビニが「自転車シェアリング」のサービスなどを始める",
+  "title_with_ruby": "コンビニが「<ruby>自転車<rt>じてんしゃ</rt></ruby>シェアリング」のサービスなどを<ruby>始<rt>はじ</rt></ruby>める",
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'>コンビニ</a>では、<ruby>客<rt>きゃく</rt></ruby>の<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>数<rt>かず</rt></ruby></a>が２０か<ruby>月<rt>げつ</rt></ruby><ruby>続<rt>つづ</rt></ruby>けて、<ruby>前<rt>まえ</rt></ruby>の<ruby>年<rt>とし</rt></ruby>の<ruby>同<rt>おな</rt></ruby>じ<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>月<rt>つき</rt></ruby></a>より<ruby>少<rt>すく</rt></ruby>なくなっています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171202/../20171202/K10011244331_1712021915_1712021919_01_03.jpg",
+  "news_web_movie_uri": "k10011244331_201712021915_201712021919.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011244331000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011244331000/k10011244331000.html"
+}

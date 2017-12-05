@@ -1,0 +1,70 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>英語</rb><rt>えいご</rt></ruby>の「コンビニエンスストア」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>食料品</rb><rt>しょくりょうひん</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>が、<ruby><rb>手軽</rb><rt>てがる</rt></ruby>にいつでも<ruby><rb>買</rb><rt>か</rt></ruby>えるように<ruby><rb>開</rb><rt>ひら</rt></ruby>いている、<ruby><rb>小型</rb><rt>こがた</rt></ruby>のスーパー。",
+          "hyouki": [
+            "コンビニ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。",
+          "hyouki": [
+            "サービス"
+          ]
+        },
+        {
+          "def": "<ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。",
+          "hyouki": [
+            "サービス"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つ、<ruby><rb>二</rb><rt>ふた</rt></ruby>つ、<ruby><rb>三</rb><rt>みっ</rt></ruby>つなどと<ruby><rb>数</rb><rt>かぞ</rt></ruby>えた<ruby><rb>物</rb><rt>もの</rt></ruby>の<ruby><rb>数量</rb><rt>すうりょう</rt></ruby>。すう。",
+          "hyouki": [
+            "数"
+          ]
+        },
+        {
+          "def": "いくつもあること。たくさん。",
+          "hyouki": [
+            "数"
+          ]
+        },
+        {
+          "def": "<ruby><rb>数</rb><rt>かぞ</rt></ruby>えあげる<ruby><rb>値打</rb><rt>ねう</rt></ruby>ちのあるもの。なかま。",
+          "hyouki": [
+            "数"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>の<ruby><rb>周</rb><rt>まわ</rt></ruby>りを<ruby><rb>回</rb><rt>まわ</rt></ruby>る<ruby><rb>衛星</rb><rt>えいせい</rt></ruby>で、<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>にいちばん<ruby><rb>近</rb><rt>ちか</rt></ruby>い<ruby><rb>天体</rb><rt>てんたい</rt></ruby>。<ruby><rb>約</rb><rt>やく</rt></ruby><ruby><rb>一</rb><rt>いっ</rt></ruby>か<ruby><rb>月</rb><rt>げつ</rt></ruby>で<ruby><rb>地球</rb><rt>ちきゅう</rt></ruby>をひと<ruby><rb>回</rb><rt>まわ</rt></ruby>りする。",
+          "hyouki": [
+            "月"
+          ]
+        },
+        {
+          "def": "<ruby><rb>一年</rb><rt>いちねん</rt></ruby>を１２に<ruby><rb>分</rb><rt>わ</rt></ruby>けた<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "月"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>表</rb><rt>おもて</rt></ruby>に<ruby><rb>糸</rb><rt>いと</rt></ruby>の<ruby><rb>輪</rb><rt>わ</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>して<ruby><rb>織</rb><rt>お</rt></ruby>った、<ruby><rb>厚</rb><rt>あつ</rt></ruby>くてやわらかいもめんの<ruby><rb>布</rb><rt>ぬの</rt></ruby>。また、それで<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>手</rb><rt>て</rt></ruby>ふき。",
+          "hyouki": [
+            "タオル"
+          ]
+        }
+      ]
+    }
+  }
+}

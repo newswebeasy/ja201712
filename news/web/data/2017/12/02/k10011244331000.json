@@ -18,7 +18,14 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "http://www3.nhk.or.jp/news/easy/k10011244331000/k10011244331000.html",
+      "title": "コンビニが「自転車シェアリング」のサービスなどを始める",
+      "time": "NEWSWEB EASY 12月5日",
+      "datetime": "2017-12-05"
+    }
+  ],
   "word": [],
   "news_id": "k10011244331000",
   "yyyy": "2017",
