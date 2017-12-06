@@ -1,0 +1,108 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>野山</rb><rt>のやま</rt></ruby>にすみ、<ruby><rb>鋭</rb><rt>するど</rt></ruby>いきばを<ruby><rb>持</rb><rt>も</rt></ruby>つけもの。ブタの<ruby><rb>祖先</rb><rt>そせん</rt></ruby>といわれるが、<ruby><rb>性質</rb><rt>せいしつ</rt></ruby>はあらく<ruby><rb>一直線</rb><rt>いっちょくせん</rt></ruby>に<ruby><rb>走</rb><rt>はし</rt></ruby>るのが<ruby><rb>速</rb><rt>はや</rt></ruby>い。<ruby><rb>体</rb><rt>からだ</rt></ruby>は<ruby><rb>黒茶色</rb><rt>くろちゃいろ</rt></ruby>のあらい<ruby><rb>毛</rb><rt>け</rt></ruby>におおわれている。",
+          "hyouki": [
+            "猪"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "あたま。",
+          "hyouki": [
+            "頭"
+          ]
+        },
+        {
+          "def": "<ruby><rb>集団</rb><rt>しゅうだん</rt></ruby>の<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>つ<ruby><rb>者</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "頭"
+          ]
+        },
+        {
+          "def": "はじめ。",
+          "hyouki": [
+            "頭"
+          ]
+        },
+        {
+          "def": "<ruby><rb>辺</rb><rt>あた</rt></ruby>り。<ruby><rb>付近</rb><rt>ふきん</rt></ruby>。",
+          "hyouki": [
+            "頭"
+          ]
+        },
+        {
+          "def": "けものを<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "頭"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>建物</rb><rt>たてもの</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>橋</rb><rt>はし</rt></ruby>などを<ruby><rb>造</rb><rt>つく</rt></ruby>ったり、<ruby><rb>直</rb><rt>なお</rt></ruby>したりすること。また、その<ruby><rb>仕事</rb><rt>しごと</rt></ruby>。",
+          "hyouki": [
+            "工事"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>重</rb><rt>かさ</rt></ruby>なる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>や<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にふくまれているあぶら。<ruby><rb>栄養素</rb><rt>えいようそ</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "脂肪"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>集</rb><rt>あつ</rt></ruby>めておく。",
+          "hyouki": [
+            "ためる"
+          ]
+        },
+        {
+          "def": "たくわえる。",
+          "hyouki": [
+            "ためる"
+          ]
+        },
+        {
+          "def": "し<ruby><rb>残</rb><rt>のこ</rt></ruby>す。",
+          "hyouki": [
+            "ためる"
+          ]
+        }
+      ]
+    }
+  }
+}

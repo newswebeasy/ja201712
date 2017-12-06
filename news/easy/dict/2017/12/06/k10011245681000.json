@@ -1,0 +1,108 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>などに<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>積</rb><rt>つ</rt></ruby>む。",
+          "hyouki": [
+            "乗せる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>調子</rb><rt>ちょうし</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせる。",
+          "hyouki": [
+            "乗せる"
+          ]
+        },
+        {
+          "def": "だます。",
+          "hyouki": [
+            "乗せる"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>楽</rb><rt>たの</rt></ruby>しみなどのために、<ruby><rb>自転車</rb><rt>じてんしゃ</rt></ruby>で<ruby><rb>遠乗</rb><rt>とおの</rt></ruby>りをすること。",
+          "hyouki": [
+            "サイクリング"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>二</rb><rt>ふた</rt></ruby>つ。",
+          "hyouki": [
+            "両"
+          ]
+        },
+        {
+          "def": "<ruby><rb>昔</rb><rt>むかし</rt></ruby>のお<ruby><rb>金</rb><rt>かね</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。",
+          "hyouki": [
+            "両"
+          ]
+        },
+        {
+          "def": "<ruby><rb>鉄道</rb><rt>てつどう</rt></ruby>で、<ruby><rb>車</rb><rt>くるま</rt></ruby>を<ruby><rb>数</rb><rt>かぞ</rt></ruby>えることば。",
+          "hyouki": [
+            "両"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>折</rb><rt>お</rt></ruby>って、<ruby><rb>重</rb><rt>かさ</rt></ruby>ねる。",
+          "hyouki": [
+            "畳む"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>がっているものを、すぼめる。",
+          "hyouki": [
+            "畳む"
+          ]
+        },
+        {
+          "def": "<ruby><rb>商売</rb><rt>しょうばい</rt></ruby>をやめる。",
+          "hyouki": [
+            "畳む"
+          ]
+        },
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にしまう。",
+          "hyouki": [
+            "畳む"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>や<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>などに<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>積</rb><rt>つ</rt></ruby>む。",
+          "hyouki": [
+            "乗せる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>調子</rb><rt>ちょうし</rt></ruby>に<ruby><rb>合</rb><rt>あ</rt></ruby>わせる。",
+          "hyouki": [
+            "乗せる"
+          ]
+        },
+        {
+          "def": "だます。",
+          "hyouki": [
+            "乗せる"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>望</rb><rt>のぞ</rt></ruby>みを、<ruby><rb>相手</rb><rt>あいて</rt></ruby>に<ruby><rb>伝</rb><rt>つた</rt></ruby>える。<ruby><rb>申</rb><rt>もう</rt></ruby>し<ruby><rb>入</rb><rt>い</rt></ruby>れる。",
+          "hyouki": [
+            "申し込む"
+          ]
+        }
+      ]
+    }
+  }
+}
