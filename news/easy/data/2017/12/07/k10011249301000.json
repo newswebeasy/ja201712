@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011249301000",
+  "news_prearranged_time": "2017-12-07 15:40:00",
+  "title": "トランプ大統領「イスラエルの首都はエルサレム」",
+  "title_with_ruby": "トランプ<ruby>大統領<rt>だいとうりょう</rt></ruby>「イスラエルの<ruby>首都<rt>しゅと</rt></ruby>はエルサレム」",
+  "outline_with_ruby": "<p>アメリカのトランプ<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>大統領<rt>だいとうりょう</rt></ruby></a>は<ruby>６日<rt>むいか</rt></ruby>、エルサレムがイスラエルの<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>首都<rt>しゅと</rt></ruby></a>だと<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>認<rt>みと</rt></ruby>める</a>と<ruby>言<rt>い</rt></ruby>いました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171207/../20171207/K10011249301_1712070709_1712070715_01_03.jpg",
+  "news_web_movie_uri": "k10011249301_201712070734_201712070736.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011249301000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011249301000/k10011249301000.html"
+}

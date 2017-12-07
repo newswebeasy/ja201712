@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011247651000",
+  "news_prearranged_time": "2017-12-07 11:30:00",
+  "title": "日本語学校が今までで最も多くなる",
+  "title_with_ruby": "<ruby>日本語<rt>にほんご</rt></ruby><ruby>学校<rt>がっこう</rt></ruby>が<ruby>今<rt>いま</rt></ruby>までで<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>くなる",
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>政府<rt>せいふ</rt></ruby></a>は、<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>く</rt></ruby>る<ruby>留学生<rt>りゅうがくせい</rt></ruby>を２０２０<ruby>年<rt>ねん</rt></ruby>までに３０<ruby>万<rt>まん</rt></ruby><ruby>人<rt>にん</rt></ruby>に<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>増<rt>ふ</rt></ruby>やし</a>たいと<ruby>考<rt>かんが</rt></ruby>えて、<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>留学<rt>りゅうがく</rt></ruby></a>の<a href='javascript:void(0)' class='dicWin' id='id-0003'>ビザ</a>を<ruby>取<rt>と</rt></ruby>りやすくしたりしています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20171205/../20171205/K10011247651_1712051955_1712051959_01_02.jpg",
+  "news_web_movie_uri": "k10011247651_201712051955_201712052057.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011247651000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011247651000/k10011247651000.html"
+}
