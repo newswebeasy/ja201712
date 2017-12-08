@@ -18,7 +18,14 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "http://www3.nhk.or.jp/news/easy/k10011248661000/k10011248661000.html",
+      "title": "「ぐるなび」がタイ観光庁と協力してタイの情報を紹介",
+      "time": "NEWSWEB EASY 12月8日",
+      "datetime": "2017-12-08"
+    }
+  ],
   "word": [],
   "news_id": "k10011248661000",
   "yyyy": "2017",

@@ -18,7 +18,20 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "http://www3.nhk.or.jp/news/easy/k10011249151000/k10011249151000.html",
+      "title": "冬休みに外国へ旅行に行く人は７０万人以上になりそう",
+      "time": "NEWSWEB EASY 12月8日",
+      "datetime": "2017-12-08"
+    },
+    {
+      "link": "http://www3.nhk.or.jp/news/business_tokushu/2017_1207.html?utm_int=tokushu-new_contents_list-items_002",
+      "title": "黒船来襲？ 変われるかＪＴＢ",
+      "time": "ビジネス特集 12月7日",
+      "datetime": "2017-12-07"
+    }
+  ],
   "word": [],
   "news_id": "k10011249151000",
   "yyyy": "2017",
