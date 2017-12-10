@@ -39,7 +39,14 @@
       "duration": 93
     }
   ],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "http://www3.nhk.or.jp/news/easy/k10011250601000/k10011250601000.html",
+      "title": "沖縄 アメリカ軍のヘリコプターから保育園に何かが落ちる",
+      "time": "NEWSWEB EASY 12月8日",
+      "datetime": "2017-12-08"
+    }
+  ],
   "word": [],
   "news_id": "k10011250601000",
   "yyyy": "2017",
