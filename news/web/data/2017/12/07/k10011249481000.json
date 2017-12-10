@@ -63,7 +63,7 @@
   "relationLink": [
     {
       "link": "https://www3.nhk.or.jp/news/special/mirai/",
-      "title": "ぜんぶわかる 東京オリ・パラ",
+      "title": "ぜんぶわかる 東京五輪・パラ",
       "time": "スペシャルコンテンツ",
       "datetime": ""
     },
@@ -72,6 +72,12 @@
       "title": "「２０２０東京大会マスコット きょう絞込み」（ここに注目！）",
       "time": "解説委員室ブログ 10月13日",
       "datetime": "2017-10-13"
+    },
+    {
+      "link": "http://www3.nhk.or.jp/news/easy/k10011249481000/k10011249481000.html",
+      "title": "オリンピックとパラリンピックのマスコットに３つの案",
+      "time": "NEWSWEB EASY 12月8日",
+      "datetime": "2017-12-08"
     }
   ],
   "word": [
