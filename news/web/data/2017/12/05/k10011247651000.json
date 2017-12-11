@@ -31,28 +31,7 @@
       "textPos": ""
     }
   ],
-  "relationNews": [
-    {
-      "link": "html/20171113/k10011221941000.html",
-      "title": "“人手不足”で休みます…",
-      "date": "11月13日  19時04分",
-      "datetime": "2017-11-13T19:04",
-      "imgPath": "html/20171113/K10011221941_1711131835_1711131845_01_02.jpg",
-      "iconPath": "html/20171113/K10011221941_1711131835_1711131845_02_01.jpg",
-      "video": "",
-      "duration": 0
-    },
-    {
-      "link": "html/20171204/k10011245971000.html",
-      "title": "ローソン 一部店舗で深夜の無人レジ導入へ",
-      "date": "12月4日  17時18分",
-      "datetime": "2017-12-04T17:18",
-      "imgPath": "html/20171204/K10011245971_1712041714_1712041717_01_03.jpg",
-      "iconPath": "html/20171204/K10011245971_1712041714_1712041717_02_01.jpg",
-      "video": "https://www3.nhk.or.jp/news/html/20171204/movie/k10011245971_201712041714_201712041716.html",
-      "duration": 89
-    }
-  ],
+  "relationNews": [],
   "relationLink": [
     {
       "link": "http://www3.nhk.or.jp/news/easy/k10011247651000/k10011247651000.html",

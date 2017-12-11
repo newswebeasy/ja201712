@@ -17,18 +17,7 @@
       "textPos": ""
     }
   ],
-  "relationNews": [
-    {
-      "link": "html/20171203/k10011245281000.html",
-      "title": "無人島の建物から家電製品なくなる 北朝鮮木造船との関連捜査",
-      "date": "12月4日  12時11分",
-      "datetime": "2017-12-04T12:11",
-      "imgPath": "html/20171204/K10011245281_1712040541_1712040545_01_03.jpg",
-      "iconPath": "html/20171204/K10011245281_1712040541_1712040545_02_01.jpg",
-      "video": "https://www3.nhk.or.jp/news/html/20171204/movie/k10011245281_201712040545_201712040545.html",
-      "duration": 99
-    }
-  ],
+  "relationNews": [],
   "relationLink": [
     {
       "link": "https://www3.nhk.or.jp/news/special/northkorea_provocation/",
