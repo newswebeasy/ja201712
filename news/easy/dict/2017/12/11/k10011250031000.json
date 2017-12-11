@@ -1,0 +1,126 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まれる、<ruby><rb>広</rb><rt>ひろ</rt></ruby>い<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。",
+          "hyouki": [
+            "広場"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>乗</rb><rt>の</rt></ruby>り<ruby><rb>物</rb><rt>もの</rt></ruby>に<ruby><rb>乗</rb><rt>の</rt></ruby>るための、<ruby><rb>決</rb><rt>き</rt></ruby>まった<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。",
+          "hyouki": [
+            "乗り場"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>天皇</rb><rt>てんのう</rt></ruby>の<ruby><rb>住</rb><rt>す</rt></ruby>まい。<ruby><rb>宮城</rb><rt>きゅうじょう</rt></ruby>。",
+          "hyouki": [
+            "皇居"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>山地</rb><rt>さんち</rt></ruby>に<ruby><rb>生</rb><rt>は</rt></ruby>えるが、<ruby><rb>街路樹</rb><rt>がいろじゅ</rt></ruby>としても<ruby><rb>植</rb><rt>う</rt></ruby>えられる<ruby><rb>高木</rb><rt>こうぼく</rt></ruby>。かたい<ruby><rb>木</rb><rt>き</rt></ruby>で、<ruby><rb>家具</rb><rt>かぐ</rt></ruby>や<ruby><rb>建築</rb><rt>けんちく</rt></ruby>に<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "欅"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>芝</rb><rt>しば</rt></ruby>が<ruby><rb>一面</rb><rt>いちめん</rt></ruby>に<ruby><rb>生</rb><rt>は</rt></ruby>えている<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "芝生"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>光</rb><rt>ひかり</rt></ruby>。<ruby><rb>照明</rb><rt>しょうめい</rt></ruby>。",
+          "hyouki": [
+            "ライト"
+          ]
+        },
+        {
+          "def": "<ruby><rb>明</rb><rt>あか</rt></ruby>るいこと。",
+          "hyouki": [
+            "ライト"
+          ]
+        },
+        {
+          "def": "<ruby><rb>軽</rb><rt>かる</rt></ruby>いこと。",
+          "hyouki": [
+            "ライト"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るときに、<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>色</rb><rt>いろ</rt></ruby>などを<ruby><rb>工夫</rb><rt>くふう</rt></ruby>すること。",
+          "hyouki": [
+            "デザイン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>図案</rb><rt>ずあん</rt></ruby>。<ruby><rb>意匠</rb><rt>いしょう</rt></ruby>。",
+          "hyouki": [
+            "デザイン"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "ものごとの<ruby><rb>動</rb><rt>うご</rt></ruby>きや<ruby><rb>乱</rb><rt>みだ</rt></ruby>れがおさまる。",
+          "hyouki": [
+            "落ち着く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>住</rb><rt>す</rt></ruby>まいや<ruby><rb>勤</rb><rt>つと</rt></ruby>め<ruby><rb>先</rb><rt>さき</rt></ruby>が、<ruby><rb>決</rb><rt>き</rt></ruby>まる。",
+          "hyouki": [
+            "落ち着く"
+          ]
+        },
+        {
+          "def": "<ruby><rb>静</rb><rt>しず</rt></ruby>かでゆったりしている。",
+          "hyouki": [
+            "落ち着く"
+          ]
+        },
+        {
+          "def": "しっくり<ruby><rb>合</rb><rt>あ</rt></ruby>う。",
+          "hyouki": [
+            "落ち着く"
+          ]
+        }
+      ]
+    }
+  }
+}

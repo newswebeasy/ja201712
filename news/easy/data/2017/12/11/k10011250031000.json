@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011250031000",
+  "news_prearranged_time": "2017-12-11 11:30:00",
+  "title": "東京駅の前に大きな広場ができる",
+  "title_with_ruby": "<ruby>東京駅<rt>とうきょうえき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きな<ruby>広場<rt>ひろば</rt></ruby>ができる",
+  "outline_with_ruby": "<p>ＪＲ<ruby>東京駅<rt>とうきょうえき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に、<ruby>広<rt>ひろ</rt></ruby>さが<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>約<rt>やく</rt></ruby></a>１<ruby>万<rt>まん</rt></ruby>９０００㎡の「<ruby>東京駅<rt>とうきょうえき</rt></ruby><ruby>丸<rt>まる</rt></ruby>の<ruby>内<rt>うち</rt></ruby><ruby>広場<rt>ひろば</rt></ruby>」ができました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171207/../20171207/K10011250031_1712071752_1712071805_01_03.jpg",
+  "news_web_movie_uri": "k10011250031_201712071752_201712071804.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011250031000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011250031000/k10011250031000.html"
+}
