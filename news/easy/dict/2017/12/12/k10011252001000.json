@@ -1,0 +1,58 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>行事</rb><rt>ぎょうじ</rt></ruby>。できごと。",
+          "hyouki": [
+            "イベント"
+          ]
+        },
+        {
+          "def": "<ruby><rb>勝負</rb><rt>しょうぶ</rt></ruby>。<ruby><rb>試合</rb><rt>しあい</rt></ruby>。",
+          "hyouki": [
+            "イベント"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "１９９５<ruby><rb>年</rb><rt>ねん</rt></ruby>（<ruby><rb>平成</rb><rt>へいせい</rt></ruby>７<ruby><rb>年</rb><rt>ねん</rt></ruby>）<ruby><rb>１月</rb><rt>いちがつ</rt></ruby><ruby><rb>１７日</rb><rt>じゅうしちにち</rt></ruby>、<ruby><rb>兵庫県</rb><rt>ひょうごけん</rt></ruby><ruby><rb>南部</rb><rt>なんぶ</rt></ruby>に<ruby><rb>起</rb><rt>お</rt></ruby>きた<ruby><rb>大地震</rb><rt>おおじしん</rt></ruby>による<ruby><rb>災害</rb><rt>さいがい</rt></ruby>。<ruby><rb>死者</rb><rt>ししゃ</rt></ruby>が<ruby><rb>約</rb><rt>やく</rt></ruby>６５００<ruby><rb>人</rb><rt>にん</rt></ruby>も<ruby><rb>出</rb><rt>で</rt></ruby>るなどの<ruby><rb>大被害</rb><rt>だいひがい</rt></ruby>をもたらした。",
+          "hyouki": [
+            "阪神淡路大震災"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。",
+          "hyouki": [
+            "被害"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>電灯</rb><rt>でんとう</rt></ruby>のガラスの<ruby><rb>球</rb><rt>たま</rt></ruby>。<ruby><rb>球</rb><rt>たま</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>に、フィラメントが<ruby><rb>入</rb><rt>い</rt></ruby>れてある。",
+          "hyouki": [
+            "電球"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>寺</rb><rt>てら</rt></ruby>で、<ruby><rb>仏</rb><rt>ほとけ</rt></ruby>や<ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>骨</rb><rt>ほね</rt></ruby>をとむらうために<ruby><rb>建</rb><rt>た</rt></ruby>てた<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。",
+          "hyouki": [
+            "塔"
+          ]
+        },
+        {
+          "def": "<ruby><rb>高</rb><rt>たか</rt></ruby>くそびえる<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。タワー。",
+          "hyouki": [
+            "塔"
+          ]
+        }
+      ]
+    }
+  }
+}
