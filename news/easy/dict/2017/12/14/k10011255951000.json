@@ -1,0 +1,94 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>便</rb><rt>たよ</rt></ruby>り。<ruby><rb>知</rb><rt>し</rt></ruby>らせ。",
+          "hyouki": [
+            "通信"
+          ]
+        },
+        {
+          "def": "<ruby><rb>郵便</rb><rt>ゆうびん</rt></ruby>・<ruby><rb>電信</rb><rt>でんしん</rt></ruby>・<ruby><rb>電話</rb><rt>でんわ</rt></ruby>などで、<ruby><rb>連絡</rb><rt>れんらく</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>うこと。",
+          "hyouki": [
+            "通信"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>仕組</rb><rt>しく</rt></ruby>み。<ruby><rb>組織</rb><rt>そしき</rt></ruby>。",
+          "hyouki": [
+            "システム"
+          ]
+        },
+        {
+          "def": "ひとまとまりの<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>合</rb><rt>あ</rt></ruby>わせ。",
+          "hyouki": [
+            "システム"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>時間</rb><rt>じかん</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。１<ruby><rb>分</rb><rt>ぷん</rt></ruby>の６０<ruby><rb>分</rb><rt>ぶん</rt></ruby>の１。",
+          "hyouki": [
+            "秒"
+          ]
+        },
+        {
+          "def": "<ruby><rb>角度</rb><rt>かくど</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。１<ruby><rb>分</rb><rt>ぷん</rt></ruby>の６０<ruby><rb>分</rb><rt>ぶん</rt></ruby>の１。",
+          "hyouki": [
+            "秒"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>向</rb><rt>む</rt></ruby>いている<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>。",
+          "hyouki": [
+            "向き"
+          ]
+        },
+        {
+          "def": "ちょうど<ruby><rb>合</rb><rt>あ</rt></ruby>っていること。",
+          "hyouki": [
+            "向き"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>。おかた。",
+          "hyouki": [
+            "向き"
+          ]
+        },
+        {
+          "def": "<ruby><rb>話</rb><rt>はなし</rt></ruby>や<ruby><rb>用事</rb><rt>ようじ</rt></ruby>などの<ruby><rb>内容</rb><rt>ないよう</rt></ruby>。",
+          "hyouki": [
+            "向き"
+          ]
+        },
+        {
+          "def": "くせや<ruby><rb>傾向</rb><rt>けいこう</rt></ruby>。",
+          "hyouki": [
+            "向き"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>えるもとになる<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>や<ruby><rb>事実</rb><rt>じじつ</rt></ruby>。",
+          "hyouki": [
+            "データ"
+          ]
+        },
+        {
+          "def": "コンピューターで<ruby><rb>使</rb><rt>つか</rt></ruby>えるように、<ruby><rb>数字</rb><rt>すうじ</rt></ruby>や<ruby><rb>記号</rb><rt>きごう</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>きかえられた<ruby><rb>資料</rb><rt>しりょう</rt></ruby>。",
+          "hyouki": [
+            "データ"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -2,7 +2,7 @@
   "cate": "6",
   "date": "12æ12æ¥ 15æ38å",
   "datetime": "2017-12-12T15:38",
-  "video": "https://www3.nhk.or.jp/news/html/20171212/movie/k10011255841_201712121738_201712121741.html",
+  "video": "/news/html/20171212/movie/k10011255841_201712121738_201712121741.html",
   "duration": 68,
   "img": "html/20171212/K10011255841_1712121554_1712121602_01_02.jpg",
   "title": "高層ビル屋上で危険なパフォーマンス 男性が転落死 中国",
@@ -18,11 +18,18 @@
     }
   ],
   "relationNews": [],
-  "relationLink": [],
+  "relationLink": [
+    {
+      "link": "http://www3.nhk.or.jp/news/easy/k10011255841000/k10011255841000.html",
+      "title": "ビルで危険なことをしてビデオを撮る男性が落ちて亡くなる",
+      "time": "NEWSWEB EASY 12月14日",
+      "datetime": "2017-12-14"
+    }
+  ],
   "word": [],
   "news_id": "k10011255841000",
   "yyyy": "2017",
   "mm": "12",
   "dd": "12",
-  "url": "http://www3.nhk.or.jp/news/html/20171212/k10011255841000.html"
+  "url": "https://www3.nhk.or.jp/news/html/20171212/k10011255841000.html"
 }
