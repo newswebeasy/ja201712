@@ -1,0 +1,154 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>地面</rb><rt>じめん</rt></ruby>の<ruby><rb>下</rb><rt>した</rt></ruby>。<ruby><rb>地中</rb><rt>ちちゅう</rt></ruby>。",
+          "hyouki": [
+            "地下"
+          ]
+        },
+        {
+          "def": "<ruby><rb>死</rb><rt>し</rt></ruby>んだ<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>行</rb><rt>い</rt></ruby>く<ruby><rb>世</rb><rt>よ</rt></ruby>。あの<ruby><rb>世</rb><rt>よ</rt></ruby>。",
+          "hyouki": [
+            "地下"
+          ]
+        },
+        {
+          "def": "<ruby><rb>秘密</rb><rt>ひみつ</rt></ruby>の<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。",
+          "hyouki": [
+            "地下"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>機械</rb><rt>きかい</rt></ruby>などが<ruby><rb>自分</rb><rt>じぶん</rt></ruby>の<ruby><rb>力</rb><rt>ちから</rt></ruby>で<ruby><rb>動</rb><rt>うご</rt></ruby>くこと。",
+          "hyouki": [
+            "自動"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>一方</rb><rt>いっぽう</rt></ruby>から<ruby><rb>他方</rb><rt>たほう</rt></ruby>に<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>着</rb><rt>つ</rt></ruby>くようにする。",
+          "hyouki": [
+            "通す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>向</rb><rt>む</rt></ruby>こうに<ruby><rb>届</rb><rt>とど</rt></ruby>かせる。",
+          "hyouki": [
+            "通す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>通</rb><rt>とお</rt></ruby>らせる。",
+          "hyouki": [
+            "通す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>終</rb><rt>お</rt></ruby>わりまでつらぬきとおす。",
+          "hyouki": [
+            "通す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>導</rb><rt>みちび</rt></ruby>き<ruby><rb>入</rb><rt>い</rt></ruby>れる。",
+          "hyouki": [
+            "通す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>仲立</rb><rt>なかだ</rt></ruby>ちにする。",
+          "hyouki": [
+            "通す"
+          ]
+        },
+        {
+          "def": "ひととおり<ruby><rb>見</rb><rt>み</rt></ruby>る。",
+          "hyouki": [
+            "通す"
+          ]
+        },
+        {
+          "def": "くぐらせる。",
+          "hyouki": [
+            "通す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>認</rb><rt>みと</rt></ruby>める。<ruby><rb>認</rb><rt>みと</rt></ruby>めさせる。",
+          "hyouki": [
+            "通す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>終</rb><rt>お</rt></ruby>わりまでし<ruby><rb>続</rb><rt>つづ</rt></ruby>ける。",
+          "hyouki": [
+            "通す"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>山</rb><rt>やま</rt></ruby>や<ruby><rb>地下</rb><rt>ちか</rt></ruby>や<ruby><rb>海底</rb><rt>かいてい</rt></ruby>に<ruby><rb>穴</rb><rt>あな</rt></ruby>をあけて、<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>車</rb><rt>くるま</rt></ruby>などが<ruby><rb>通</rb><rt>とお</rt></ruby>れるようにしたもの。",
+          "hyouki": [
+            "トンネル"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、<ruby><rb>野手</rb><rt>やしゅ</rt></ruby>がゴロを<ruby><rb>取</rb><rt>と</rt></ruby>りそこなって、またの<ruby><rb>間</rb><rt>あいだ</rt></ruby>から<ruby><rb>後</rb><rt>うし</rt></ruby>ろにのがすこと。",
+          "hyouki": [
+            "トンネル"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "キャベツに<ruby><rb>似</rb><rt>に</rt></ruby>た<ruby><rb>西洋野菜</rb><rt>せいようやさい</rt></ruby>。サラダなどに<ruby><rb>使</rb><rt>つか</rt></ruby>う。タマヂシャ。",
+          "hyouki": [
+            "レタス"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>光</rb><rt>ひかり</rt></ruby>。<ruby><rb>照明</rb><rt>しょうめい</rt></ruby>。",
+          "hyouki": [
+            "ライト"
+          ]
+        },
+        {
+          "def": "<ruby><rb>明</rb><rt>あか</rt></ruby>るいこと。",
+          "hyouki": [
+            "ライト"
+          ]
+        },
+        {
+          "def": "<ruby><rb>軽</rb><rt>かる</rt></ruby>いこと。",
+          "hyouki": [
+            "ライト"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>熱</rb><rt>あつ</rt></ruby>さや<ruby><rb>冷</rb><rt>つめ</rt></ruby>たさの<ruby><rb>度合</rb><rt>どあ</rt></ruby>いを<ruby><rb>数字</rb><rt>すうじ</rt></ruby>で<ruby><rb>表</rb><rt>あらわ</rt></ruby>したもの。",
+          "hyouki": [
+            "温度"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>空気中</rb><rt>くうきちゅう</rt></ruby>にふくまれている、<ruby><rb>水蒸気</rb><rt>すいじょうき</rt></ruby>の<ruby><rb>割合</rb><rt>わりあい</rt></ruby>。",
+          "hyouki": [
+            "湿度"
+          ]
+        }
+      ]
+    }
+  }
+}

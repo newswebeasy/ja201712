@@ -1,0 +1,68 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>外国</rb><rt>がいこく</rt></ruby>に<ruby><rb>行</rb><rt>い</rt></ruby>って、<ruby><rb>勉強</rb><rt>べんきょう</rt></ruby>すること。",
+          "hyouki": [
+            "留学"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。",
+          "hyouki": [
+            "情報"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "はらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>代金</rb><rt>だいきん</rt></ruby>。",
+          "hyouki": [
+            "料"
+          ]
+        },
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るもとになる<ruby><rb>物</rb><rt>もの</rt></ruby>。",
+          "hyouki": [
+            "料"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>学生</rb><rt>がくせい</rt></ruby>や、<ruby><rb>勤</rb><rt>つと</rt></ruby>めている<ruby><rb>人</rb><rt>ひと</rt></ruby>が、<ruby><rb>共同</rb><rt>きょうどう</rt></ruby>で<ruby><rb>暮</rb><rt>く</rt></ruby>らしている<ruby><rb>家</rb><rt>いえ</rt></ruby>。<ruby><rb>寄宿舎</rb><rt>きしゅくしゃ</rt></ruby>。",
+          "hyouki": [
+            "寮"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>家</rb><rt>いえ</rt></ruby>を<ruby><rb>借</rb><rt>か</rt></ruby>りている<ruby><rb>人</rb><rt>ひと</rt></ruby>が、<ruby><rb>家</rb><rt>いえ</rt></ruby>の<ruby><rb>持</rb><rt>も</rt></ruby>ち<ruby><rb>主</rb><rt>ぬし</rt></ruby>にはらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>家</rb><rt>いえ</rt></ruby>の<ruby><rb>借</rb><rt>か</rt></ruby>り<ruby><rb>賃</rb><rt>ちん</rt></ruby>。",
+          "hyouki": [
+            "家賃"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "とらえられる。つかまえられる。",
+          "hyouki": [
+            "捕まる"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "やとい<ruby><rb>主</rb><rt>ぬし</rt></ruby>が、<ruby><rb>働</rb><rt>はたら</rt></ruby>いた<ruby><rb>人</rb><rt>ひと</rt></ruby>にはらうお<ruby><rb>金</rb><rt>かね</rt></ruby>。<ruby><rb>給与</rb><rt>きゅうよ</rt></ruby>。サラリー。",
+          "hyouki": [
+            "給料"
+          ]
+        }
+      ]
+    }
+  }
+}
