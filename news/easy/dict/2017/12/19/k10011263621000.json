@@ -1,0 +1,136 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>何台</rb><rt>なんだい</rt></ruby>もつながっている、<ruby><rb>客車</rb><rt>きゃくしゃ</rt></ruby>や<ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>。",
+          "hyouki": [
+            "列車"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>列車</rb><rt>れっしゃ</rt></ruby>や<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>などが、<ruby><rb>線路</rb><rt>せんろ</rt></ruby>から<ruby><rb>外</rb><rt>はず</rt></ruby>れること。",
+          "hyouki": [
+            "脱線"
+          ]
+        },
+        {
+          "def": "<ruby><rb>話</rb><rt>はなし</rt></ruby>や<ruby><rb>行動</rb><rt>こうどう</rt></ruby>が<ruby><rb>横道</rb><rt>よこみち</rt></ruby>へそれること。",
+          "hyouki": [
+            "脱線"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>車</rb><rt>くるま</rt></ruby>が<ruby><rb>通</rb><rt>とお</rt></ruby>る<ruby><rb>道</rb><rt>みち</rt></ruby>。<ruby><rb>通</rb><rt>とお</rt></ruby>り<ruby><rb>道</rb><rt>みち</rt></ruby>。",
+          "hyouki": [
+            "道路"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>汽車</rb><rt>きしゃ</rt></ruby>や<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>が<ruby><rb>通</rb><rt>とお</rt></ruby>る<ruby><rb>道筋</rb><rt>みちすじ</rt></ruby>。レール。",
+          "hyouki": [
+            "線路"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>・<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>などのこと。また、その<ruby><rb>一台</rb><rt>いちだい</rt></ruby><ruby><rb>一台</rb><rt>いちだい</rt></ruby>。",
+          "hyouki": [
+            "車両"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "エンジンがなく、<ruby><rb>他</rb><rt>た</rt></ruby>の<ruby><rb>車</rb><rt>くるま</rt></ruby>に<ruby><rb>引</rb><rt>ひ</rt></ruby>かれる<ruby><rb>形</rb><rt>かたち</rt></ruby>で<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶ<ruby><rb>車</rb><rt>くるま</rt></ruby>。",
+          "hyouki": [
+            "トレーラー"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>打</rb><rt>う</rt></ruby>ち<ruby><rb>当</rb><rt>あ</rt></ruby>たる。つき<ruby><rb>当</rb><rt>あ</rt></ruby>たる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>困難</rb><rt>こんなん</rt></ruby>なことに<ruby><rb>出</rb><rt>で</rt></ruby>あう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>争</rb><rt>あらそ</rt></ruby>う。<ruby><rb>立</rb><rt>た</rt></ruby>ち<ruby><rb>向</rb><rt>む</rt></ruby>かう。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>重</rb><rt>かさ</rt></ruby>なる。",
+          "hyouki": [
+            "ぶつかる"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>船</rb><rt>ふね</rt></ruby>・<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>・<ruby><rb>列車</rb><rt>れっしゃ</rt></ruby>などに<ruby><rb>乗</rb><rt>の</rt></ruby>りこんで、<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をしている<ruby><rb>人</rb><rt>ひと</rt></ruby>。<ruby><rb>乗務員</rb><rt>じょうむいん</rt></ruby>。",
+          "hyouki": [
+            "乗員"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>曲</rb><rt>ま</rt></ruby>がること。また、<ruby><rb>曲</rb><rt>ま</rt></ruby>がっている<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "カーブ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>野球</rb><rt>やきゅう</rt></ruby>・ソフトボールで、<ruby><rb>投手</rb><rt>とうしゅ</rt></ruby>の<ruby><rb>投</rb><rt>な</rt></ruby>げる<ruby><rb>球</rb><rt>たま</rt></ruby>が<ruby><rb>打者</rb><rt>だしゃ</rt></ruby>の<ruby><rb>近</rb><rt>ちか</rt></ruby>くで<ruby><rb>曲</rb><rt>ま</rt></ruby>がること。また、その<ruby><rb>球</rb><rt>たま</rt></ruby>。",
+          "hyouki": [
+            "カーブ"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "とつぜん。にわかに。",
+          "hyouki": [
+            "急に"
+          ]
+        }
+      ]
+    }
+  }
+}

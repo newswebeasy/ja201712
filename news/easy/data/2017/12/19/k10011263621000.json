@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011263621000",
+  "news_prearranged_time": "2017-12-19 14:50:00",
+  "title": "アメリカで列車が脱線して下の道路に落ちる",
+  "title_with_ruby": "アメリカで<ruby>列車<rt>れっしゃ</rt></ruby>が<ruby>脱線<rt>だっせん</rt></ruby>して<ruby>下<rt>した</rt></ruby>の<ruby>道路<rt>どうろ</rt></ruby>に<ruby>落<rt>お</rt></ruby>ちる",
+  "outline_with_ruby": "<p>アメリカで１８<ruby>日<rt>にち</rt></ruby><ruby>午前<rt>ごぜん</rt></ruby>８<ruby>時<rt>じ</rt></ruby>ごろ、ワシントン<ruby>州<rt>しゅう</rt></ruby>のシアトルからオレゴン<ruby>州<rt>しゅう</rt></ruby>に<ruby>向<rt>む</rt></ruby>かっていた<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>列車<rt>れっしゃ</rt></ruby></a>が<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>脱線<rt>だっせん</rt></ruby></a>しました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20171219/../20171219/K10011263621_1712191034_1712191034_01_02.jpg",
+  "news_web_movie_uri": "k10011263621_201712191221_201712191222.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011263621000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011263621000/k10011263621000.html"
+}
