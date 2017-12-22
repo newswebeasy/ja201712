@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011267591000",
+  "news_prearranged_time": "2017-12-22 16:00:00",
+  "title": "国連　「エルサレムが首都」と言うアメリカを認めない",
+  "title_with_ruby": "<ruby>国連<rt>こくれん</rt></ruby>　「エルサレムが<ruby>首都<rt>しゅと</rt></ruby>」と<ruby>言<rt>い</rt></ruby>うアメリカを<ruby>認<rt>みと</rt></ruby>めない",
+  "outline_with_ruby": "<p>アメリカのトランプ<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>大統領<rt>だいとうりょう</rt></ruby></a>は<ruby>６日<rt>むいか</rt></ruby>、エルサレムがイスラエルの<a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>首都<rt>しゅと</rt></ruby></a>だと<a href='javascript:void(0)' class='dicWin' id='id-0004'><ruby>認<rt>みと</rt></ruby>める</a>と<ruby>言<rt>い</rt></ruby>いました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20171222/../20171222/K10011267591_1712220408_1712220408_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011267591000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011267591000/k10011267591000.html"
+}
