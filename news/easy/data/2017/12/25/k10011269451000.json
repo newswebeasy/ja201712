@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011269451000",
+  "news_prearranged_time": "2017-12-25 14:50:00",
+  "title": "ライトで明るくして皇居の夜の景色を楽しむ",
+  "title_with_ruby": "ライトで<ruby>明<rt>あか</rt></ruby>るくして<ruby>皇居<rt>こうきょ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>の<ruby>景色<rt>けしき</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しむ",
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>皇居<rt>こうきょ</rt></ruby></a>では２３<ruby>日<rt>にち</rt></ruby>、<ruby>建物<rt>たてもの</rt></ruby>などに<ruby>光<rt>ひかり</rt></ruby>を<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>当<rt>あ</rt></ruby>て</a>て<ruby>明<rt>あか</rt></ruby>るくする「ライトアップ」が<ruby>始<rt>はじ</rt></ruby>まりました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20171223/../20171223/K10011269451_1712231846_1712231846_01_02.jpg",
+  "news_web_movie_uri": "k10011269451_201712232112_201712232114.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011269451000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011269451000/k10011269451000.html"
+}
