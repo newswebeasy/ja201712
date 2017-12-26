@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011269251000",
+  "news_prearranged_time": "2017-12-26 11:30:00",
+  "title": "静岡県に「富士山世界遺産センター」がオープン",
+  "title_with_ruby": "<ruby>静岡県<rt>しずおかけん</rt></ruby>に「<ruby>富士山<rt>ふじさん</rt></ruby><ruby>世界遺産<rt>せかいいさん</rt></ruby>センター」がオープン",
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>富士山<rt>ふじさん</rt></ruby></a>の<ruby>歴史<rt>れきし</rt></ruby>や<ruby>文化<rt>ぶんか</rt></ruby>などを<ruby>紹介<rt>しょうかい</rt></ruby>する「<ruby>富士山<rt>ふじさん</rt></ruby><ruby>世界遺産<rt>せかいいさん</rt></ruby>センター」が<ruby>静岡県<rt>しずおかけん</rt></ruby><ruby>富士宮市<rt>ふじのみやし</rt></ruby>にできました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20171223/../20171223/K10011269251_1712231356_1712231400_01_02.jpg",
+  "news_web_movie_uri": "k10011269251_201712231511_201712231518.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011269251000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011269251000/k10011269251000.html"
+}
