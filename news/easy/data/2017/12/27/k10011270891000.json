@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011270891000",
+  "news_prearranged_time": "2017-12-27 11:30:00",
+  "title": "インターネットを使って虫歯にならないようにするサービス",
+  "title_with_ruby": "インターネットを<ruby>使<rt>つか</rt></ruby>って<ruby>虫歯<rt>むしば</rt></ruby>にならないようにするサービス",
+  "outline_with_ruby": "<p><ruby>歯<rt>は</rt></ruby>を<ruby>何<rt>なん</rt></ruby><ruby>回<rt>かい</rt></ruby><ruby>磨<rt>みが</rt></ruby>いたかなどをインターネットで<ruby>歯<rt>は</rt></ruby><ruby>医者<rt>いしゃ</rt></ruby>に<ruby>知<rt>し</rt></ruby>らせて、<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>虫歯<rt>むしば</rt></ruby></a>にならないようにする<a href='javascript:void(0)' class='dicWin' id='id-0001'>サービス</a>ができました。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20171225/../20171225/K10011270891_1712251625_1712251627_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011270891000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011270891000/k10011270891000.html"
+}

@@ -1,0 +1,92 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>幼</rb><rt>おさな</rt></ruby>い<ruby><rb>子</rb><rt>こ</rt></ruby>どもを<ruby><rb>朝</rb><rt>あさ</rt></ruby>から<ruby><rb>夕方</rb><rt>ゆうがた</rt></ruby>まで<ruby><rb>預</rb><rt>あず</rt></ruby>かって、<ruby><rb>世話</rb><rt>せわ</rt></ruby>をする<ruby><rb>所</rb><rt>ところ</rt></ruby>。ほいくしょ。<ruby><rb>保育園</rb><rt>ほいくえん</rt></ruby>。",
+          "hyouki": [
+            "保育所"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>急</rb><rt>きゅう</rt></ruby>に。思いがけなく。",
+          "hyouki": [
+            "突然"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>国民</rb><rt>こくみん</rt></ruby>の<ruby><rb>健康</rb><rt>けんこう</rt></ruby>や<ruby><rb>生活</rb><rt>せいかつ</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>が<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>見</rb><rt>み</rt></ruby>つけるのを<ruby><rb>助</rb><rt>たす</rt></ruby>けたり、<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>を<ruby><rb>保護</rb><rt>ほご</rt></ruby>したりする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>厚労省</rb><rt>こうろうしょう</rt></ruby>。",
+          "hyouki": [
+            "厚生労働省"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>急病人</rb><rt>きゅうびょうにん</rt></ruby>やけが<ruby><rb>人</rb><rt>にん</rt></ruby>を、すぐ<ruby><rb>病院</rb><rt>びょういん</rt></ruby>へ<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶ<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>。<ruby><rb>消防署</rb><rt>しょうぼうしょ</rt></ruby>で<ruby><rb>管理</rb><rt>かんり</rt></ruby>している。",
+          "hyouki": [
+            "救急車"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>胸</rb><rt>むね</rt></ruby>の<ruby><rb>左側</rb><rt>ひだりがわ</rt></ruby>にあって、<ruby><rb>血液</rb><rt>けつえき</rt></ruby>を<ruby><rb>体</rb><rt>からだ</rt></ruby>じゅうに<ruby><rb>送</rb><rt>おく</rt></ruby>り<ruby><rb>出</rb><rt>だ</rt></ruby>すポンプの<ruby><rb>役目</rb><rt>やくめ</rt></ruby>をする<ruby><rb>器官</rb><rt>きかん</rt></ruby>。こぶしぐらいの<ruby><rb>大</rb><rt>おお</rt></ruby>きさで、<ruby><rb>左右</rb><rt>さゆう</rt></ruby>の<ruby><rb>心房</rb><rt>しんぼう</rt></ruby>と<ruby><rb>左右</rb><rt>さゆう</rt></ruby>の<ruby><rb>心室</rb><rt>しんしつ</rt></ruby>の<ruby><rb>四</rb><rt>よっ</rt></ruby>つの<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>からできている。",
+          "hyouki": [
+            "心臓"
+          ]
+        },
+        {
+          "def": "ものごとの<ruby><rb>大切</rb><rt>たいせつ</rt></ruby>な<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>。",
+          "hyouki": [
+            "心臓"
+          ]
+        },
+        {
+          "def": "<ruby><rb>度胸</rb><rt>どきょう</rt></ruby>がよくて、<ruby><rb>物</rb><rt>もの</rt></ruby>おじしないこと。",
+          "hyouki": [
+            "心臓"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>体</rb><rt>からだ</rt></ruby>をもんだりさすったりして、<ruby><rb>血</rb><rt>ち</rt></ruby>のめぐりをよくし、つかれやこりをほぐすこと。",
+          "hyouki": [
+            "マッサージ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>向</rb><rt>む</rt></ruby>くようにする。<ruby><rb>向</rb><rt>む</rt></ruby>かせる。",
+          "hyouki": [
+            "向ける"
+          ]
+        },
+        {
+          "def": "その<ruby><rb>方向</rb><rt>ほうこう</rt></ruby>を<ruby><rb>目</rb><rt>め</rt></ruby>ざす。",
+          "hyouki": [
+            "向ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>行</rb><rt>い</rt></ruby>かせる。",
+          "hyouki": [
+            "向ける"
+          ]
+        },
+        {
+          "def": "ふり<ruby><rb>当</rb><rt>あ</rt></ruby>てる。",
+          "hyouki": [
+            "向ける"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>港</rb><rt>みなと</rt></ruby>やみさきなどにあって、<ruby><rb>夜</rb><rt>よる</rt></ruby>、<ruby><rb>強</rb><rt>つよ</rt></ruby>い<ruby><rb>光</rb><rt>ひかり</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し、<ruby><rb>行</rb><rt>い</rt></ruby>き<ruby><rb>来</rb><rt>き</rt></ruby>する<ruby><rb>船</rb><rt>ふね</rt></ruby>に<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>な<ruby><rb>通</rb><rt>とお</rt></ruby>り<ruby><rb>道</rb><rt>みち</rt></ruby>を<ruby><rb>教</rb><rt>おし</rt></ruby>える<ruby><rb>設備</rb><rt>せつび</rt></ruby>。<ruby><rb>飛行機</rb><rt>ひこうき</rt></ruby>のためのものもある。",
+          "hyouki": [
+            "灯台"
+          ]
+        },
+        {
+          "def": "<ruby><rb>昔</rb><rt>むかし</rt></ruby>、<ruby><rb>明</rb><rt>あ</rt></ruby>かりをとるために、<ruby><rb>火</rb><rt>ひ</rt></ruby>をともす<ruby><rb>皿</rb><rt>さら</rt></ruby>をのせた<ruby><rb>台</rb><rt>だい</rt></ruby>。",
+          "hyouki": [
+            "灯台"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>海</rb><rt>うみ</rt></ruby>などの<ruby><rb>水面</rb><rt>すいめん</rt></ruby>が、<ruby><rb>高</rb><rt>たか</rt></ruby>くなったり<ruby><rb>低</rb><rt>ひく</rt></ruby>くなったりすること。また、<ruby><rb>水面</rb><rt>すいめん</rt></ruby>が<ruby><rb>高</rb><rt>たか</rt></ruby>く<ruby><rb>盛</rb><rt>も</rt></ruby>り<ruby><rb>上</rb><rt>あ</rt></ruby>がっている<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "波"
+          ]
+        },
+        {
+          "def": "ものごとの<ruby><rb>調子</rb><rt>ちょうし</rt></ruby>が、<ruby><rb>上</rb><rt>あ</rt></ruby>がったり<ruby><rb>下</rb><rt>さ</rt></ruby>がったり、また、よくなったり<ruby><rb>悪</rb><rt>わる</rt></ruby>くなったりすること。",
+          "hyouki": [
+            "波"
+          ]
+        },
+        {
+          "def": "つぎつぎとおし<ruby><rb>寄</rb><rt>よ</rt></ruby>せるものをたとえていうことば。",
+          "hyouki": [
+            "波"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>北</rb><rt>きた</rt></ruby>と<ruby><rb>西</rb><rt>にし</rt></ruby>の<ruby><rb>真</rb><rt>ま</rt></ruby>ん<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>方位</rb><rt>ほうい</rt></ruby>。<ruby><rb>西北</rb><rt>せいほく</rt></ruby>。",
+          "hyouki": [
+            "北西"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>外海</rb><rt>がいかい</rt></ruby>からの<ruby><rb>大波</rb><rt>おおなみ</rt></ruby>を<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぎ、<ruby><rb>港</rb><rt>みなと</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>静</rb><rt>しず</rt></ruby>かになるように、<ruby><rb>海</rb><rt>うみ</rt></ruby>に<ruby><rb>作</rb><rt>つく</rt></ruby>ったつつみ。",
+          "hyouki": [
+            "防波堤"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>海</rb><rt>うみ</rt></ruby>や<ruby><rb>港</rb><rt>みなと</rt></ruby>で、<ruby><rb>船</rb><rt>ふね</rt></ruby>の<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>ったり、<ruby><rb>法</rb><rt>ほう</rt></ruby>に<ruby><rb>違反</rb><rt>いはん</rt></ruby>することを<ruby><rb>防</rb><rt>ふせ</rt></ruby>いだりする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。",
+          "hyouki": [
+            "海上保安庁"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>全体</rb><rt>ぜんたい</rt></ruby>を、いくつかに<ruby><rb>分</rb><rt>わ</rt></ruby>けたものの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "部分"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>鉄</rb><rt>てつ</rt></ruby>の<ruby><rb>棒</rb><rt>ぼう</rt></ruby>を<ruby><rb>中</rb><rt>なか</rt></ruby>に<ruby><rb>入</rb><rt>い</rt></ruby>れて、コンクリートで<ruby><rb>固</rb><rt>かた</rt></ruby>めたもの。<ruby><rb>建物</rb><rt>たてもの</rt></ruby>を<ruby><rb>造</rb><rt>つく</rt></ruby>るのに<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "鉄筋コンクリート"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>一</rb><rt>ひと</rt></ruby>つ<ruby><rb>一</rb><rt>ひと</rt></ruby>つよく<ruby><rb>調</rb><rt>しら</rt></ruby>べること。",
+          "hyouki": [
+            "点検"
+          ]
+        }
+      ]
+    }
+  }
+}

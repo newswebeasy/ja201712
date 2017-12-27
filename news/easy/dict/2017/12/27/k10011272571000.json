@@ -1,0 +1,96 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>正月</rb><rt>しょうがつ</rt></ruby>を<ruby><rb>祝</rb><rt>いわ</rt></ruby>って、<ruby><rb>家</rb><rt>いえ</rt></ruby>の<ruby><rb>門</rb><rt>もん</rt></ruby>や<ruby><rb>玄関</rb><rt>げんかん</rt></ruby>に<ruby><rb>立</rb><rt>た</rt></ruby>てる<ruby><rb>松</rb><rt>まつ</rt></ruby>の<ruby><rb>枝</rb><rt>えだ</rt></ruby>。<ruby><rb>松飾</rb><rt>まつかざ</rt></ruby>り。",
+          "hyouki": [
+            "門松"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>中</rb><rt>なか</rt></ruby>が<ruby><rb>空</rb><rt>から</rt></ruby>の<ruby><rb>茎</rb><rt>くき</rt></ruby>に、<ruby><rb>節</rb><rt>ふし</rt></ruby>のある<ruby><rb>植物</rb><rt>しょくぶつ</rt></ruby>。<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>や、<ruby><rb>細工物</rb><rt>さいくもの</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>う。<ruby><rb>若</rb><rt>わか</rt></ruby>い<ruby><rb>芽</rb><rt>め</rt></ruby>を「たけのこ」という。",
+          "hyouki": [
+            "竹"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>幹</rb><rt>みき</rt></ruby>はざらざらして、<ruby><rb>針</rb><rt>はり</rt></ruby>のような<ruby><rb>緑</rb><rt>みどり</rt></ruby>の<ruby><rb>葉</rb><rt>は</rt></ruby>を<ruby><rb>一年</rb><rt>いちねん</rt></ruby>じゅうつけている<ruby><rb>木</rb><rt>き</rt></ruby>。アカマツ・クロマツ・エゾマツなど<ruby><rb>種類</rb><rt>しゅるい</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。<ruby><rb>枝</rb><rt>えだ</rt></ruby>を<ruby><rb>正月</rb><rt>しょうがつ</rt></ruby>の<ruby><rb>門松</rb><rt>かどまつ</rt></ruby>として<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "hyouki": [
+            "松"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>向</rb><rt>む</rt></ruby>き。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "それぞれの<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。<ruby><rb>地域</rb><rt>ちいき</rt></ruby>。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "<ruby><rb>四角</rb><rt>しかく</rt></ruby>。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "やりかた。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "<ruby><rb>分</rb><rt>わ</rt></ruby>けたときの<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "<ruby><rb>部類</rb><rt>ぶるい</rt></ruby>。",
+          "hyouki": [
+            "方"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>をうやまって<ruby><rb>言</rb><rt>い</rt></ruby>うことば。かた。",
+          "hyouki": [
+            "方"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>願</rb><rt>ねが</rt></ruby>うこと。<ruby><rb>願</rb><rt>ねが</rt></ruby>っていること。",
+          "hyouki": [
+            "願い"
+          ]
+        },
+        {
+          "def": "<ruby><rb>希望</rb><rt>きぼう</rt></ruby>を<ruby><rb>書</rb><rt>か</rt></ruby>いて、さし<ruby><rb>出</rb><rt>だ</rt></ruby>すもの。<ruby><rb>願書</rb><rt>がんしょ</rt></ruby>。",
+          "hyouki": [
+            "願い"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>材木</rb><rt>ざいもく</rt></ruby>を、うすく<ruby><rb>平</rb><rt>たい</rt></ruby>らに<ruby><rb>切</rb><rt>き</rt></ruby>ったもの。また、そのような<ruby><rb>形</rb><rt>かたち</rt></ruby>のもの。",
+          "hyouki": [
+            "板"
+          ]
+        }
+      ]
+    }
+  }
+}

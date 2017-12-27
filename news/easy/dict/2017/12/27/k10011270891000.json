@@ -1,0 +1,144 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "ばいきんがはたらいてできる<ruby><rb>酸</rb><rt>さん</rt></ruby>のために、いたんだり<ruby><rb>穴</rb><rt>あな</rt></ruby>があいたりした<ruby><rb>歯</rb><rt>は</rt></ruby>。",
+          "hyouki": [
+            "虫歯"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>のためにつくすこと。",
+          "hyouki": [
+            "サービス"
+          ]
+        },
+        {
+          "def": "<ruby><rb>客</rb><rt>きゃく</rt></ruby>をもてなすこと。<ruby><rb>奉仕</rb><rt>ほうし</rt></ruby>。",
+          "hyouki": [
+            "サービス"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "はけ。<ruby><rb>細</rb><rt>こま</rt></ruby>かいほこりやよごれを<ruby><rb>取</rb><rt>と</rt></ruby>るもの。",
+          "hyouki": [
+            "ブラシ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。",
+          "hyouki": [
+            "製品"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>機械</rb><rt>きかい</rt></ruby>などを<ruby><rb>組</rb><rt>く</rt></ruby>み<ruby><rb>立</rb><rt>た</rt></ruby>てている、<ruby><rb>一</rb><rt>ひと</rt></ruby>つ<ruby><rb>一</rb><rt>ひと</rt></ruby>つの<ruby><rb>部分</rb><rt>ぶぶん</rt></ruby>の<ruby><rb>品</rb><rt>しな</rt></ruby>。<ruby><rb>部分品</rb><rt>ぶぶんひん</rt></ruby>。",
+          "hyouki": [
+            "部品"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>が、はなれないようにする。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "しるしを<ruby><rb>残</rb><rt>のこ</rt></ruby>す。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>書</rb><rt>か</rt></ruby>きこむ。しるす。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>加</rb><rt>くわ</rt></ruby>える。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "そっとあとについて<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "ものごとを<ruby><rb>収</rb><rt>おさ</rt></ruby>める。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>注意</rb><rt>ちゅうい</rt></ruby>を<ruby><rb>向</rb><rt>む</rt></ruby>ける。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "<ruby><rb>値段</rb><rt>ねだん</rt></ruby>を<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "そばに<ruby><rb>付</rb><rt>つ</rt></ruby>きそわせる。",
+          "hyouki": [
+            "付ける"
+          ]
+        },
+        {
+          "def": "…し<ruby><rb>慣</rb><rt>な</rt></ruby>れている。",
+          "hyouki": [
+            "付ける"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。",
+          "hyouki": [
+            "情報"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "あとのために<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、<ruby><rb>書</rb><rt>か</rt></ruby>きつけたもの。",
+          "hyouki": [
+            "記録"
+          ]
+        },
+        {
+          "def": "<ruby><rb>運動競技</rb><rt>うんどうきょうぎ</rt></ruby>などの<ruby><rb>最高</rb><rt>さいこう</rt></ruby>の<ruby><rb>成績</rb><rt>せいせき</rt></ruby>。レコード。",
+          "hyouki": [
+            "記録"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "ちょっとしたことを<ruby><rb>教</rb><rt>おし</rt></ruby>えて<ruby><rb>助</rb><rt>たす</rt></ruby>けること。また、そのことば。<ruby><rb>助言</rb><rt>じょげん</rt></ruby>。",
+          "hyouki": [
+            "アドバイス"
+          ]
+        }
+      ]
+    }
+  }
+}
