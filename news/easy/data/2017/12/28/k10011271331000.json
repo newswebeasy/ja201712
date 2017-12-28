@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011271331000",
+  "news_prearranged_time": "2017-12-28 11:30:00",
+  "title": "東京都が犬や猫を飼う人を探すウェブサイトを作る",
+  "title_with_ruby": "<ruby>東京都<rt>とうきょうと</rt></ruby>が<ruby>犬<rt>いぬ</rt></ruby>や<ruby>猫<rt>ねこ</rt></ruby>を<ruby>飼<rt>か</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>を<ruby>探<rt>さが</rt></ruby>すウェブサイトを<ruby>作<rt>つく</rt></ruby>る",
+  "outline_with_ruby": "<p><ruby>東京都<rt>とうきょうと</rt></ruby>では、<ruby>誰<rt>だれ</rt></ruby>が<a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>飼<rt>か</rt></ruby>っ</a>ているかわからない<ruby>犬<rt>いぬ</rt></ruby>や<ruby>猫<rt>ねこ</rt></ruby>などがいて、<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>飼<rt>か</rt></ruby>う</a><ruby>人<rt>ひと</rt></ruby>が<ruby>見<rt>み</rt></ruby>つからない<ruby>場合<rt>ばあい</rt></ruby>などは<a href='javascript:void(0)' class='dicWin' id='id-0003'><ruby>殺<rt>ころ</rt></ruby>す</a>ことがあります。",
+  "has_news_web_image": true,
+  "has_news_web_movie": false,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20171226/../20171226/K10011271331_1712260850_1712260912_01_02.jpg",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011271331000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011271331000/k10011271331000.html"
+}

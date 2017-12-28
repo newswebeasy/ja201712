@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011271991000",
+  "news_prearranged_time": "2017-12-28 11:30:00",
+  "title": "みかんの値段が去年より３０％高くなる",
+  "title_with_ruby": "みかんの<ruby>値段<rt>ねだん</rt></ruby>が<ruby>去年<rt>きょねん</rt></ruby>より３０％<ruby>高<rt>たか</rt></ruby>くなる",
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0000'>みかん</a>の<ruby>値段<rt>ねだん</rt></ruby>が<ruby>高<rt>たか</rt></ruby>くなっています。",
+  "has_news_web_image": false,
+  "has_news_web_movie": false,
+  "has_news_easy_image": true,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "",
+  "news_web_movie_uri": "",
+  "news_easy_image_uri": "k10011271991000.jpg",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011271991000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011271991000/k10011271991000.html"
+}

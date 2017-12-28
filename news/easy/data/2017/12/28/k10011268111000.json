@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011268111000",
+  "news_prearranged_time": "2017-12-28 15:40:00",
+  "title": "日本の人口が減る　赤ちゃんが今まででいちばん少ない",
+  "title_with_ruby": "<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>人口<rt>じんこう</rt></ruby>が<ruby>減<rt>へ</rt></ruby>る　<ruby>赤<rt>あか</rt></ruby>ちゃんが<ruby>今<rt>いま</rt></ruby>まででいちばん<ruby>少<rt>すく</rt></ruby>ない",
+  "outline_with_ruby": "<p><a href='javascript:void(0)' class='dicWin' id='id-0001'><ruby>厚生労働省<rt>こうせいろうどうしょう</rt></ruby></a>は、１<ruby>年<rt>ねん</rt></ruby>でどのくらい<ruby>人口<rt>じんこう</rt></ruby>が<ruby>変<rt>か</rt></ruby>わるか<ruby>毎年<rt>まいとし</rt></ruby><a href='javascript:void(0)' class='dicWin' id='id-0002'><ruby>計算<rt>けいさん</rt></ruby></a>をしています。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "https://www3.nhk.or.jp/news/html/20171222/../20171222/K10011268111_1712221554_1712221555_01_02.jpg",
+  "news_web_movie_uri": "k10011268111_201712221736_201712221739.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011268111000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011268111000/k10011268111000.html"
+}
